@@ -2,5 +2,8 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "start": "node src/topics/05-basic-destructuring.ts"
+  },
   "dependencies": {}
 }
